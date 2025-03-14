@@ -1,11 +1,11 @@
-Paper ID
-40085126
-40085125
-40085050
-40085041
-40085003
-40084948
-40084837
-40084795
-40084735
-40084667
+PubmedID,Title,Publication Date,Non-academic Author(s),Company Affiliation(s),Corresponding Author Email
+40085126,Stable and discriminating OCT-derived radiomics features for predicting anti-VEGF treatment response in diabetic macular edema.,2025 Mar 14,"Kar SS, Cetin H, Srivastava SK, Madabhushi A, Ehlers JP",,
+40085125,Predicting Postoperative Neurological Outcomes in Metastatic Spinal Tumor Surgery Using Machine Learning.,2025 Mar 3,"Maki S, Shiratani Y, Orita S, Suzuki A, Tamai K, Shimizu T, Kakutani K, Kanda Y, Tominaga H, Kawamura I, Ishihara M, Paku M, Takahashi Y, Funayama T, Miura K, Shirasawa E, Inoue H, Kimura A, Iimura T, Moridaira H, Nakajima H, Watanabe S, Akeda K, Takegami N, Nakanishi K, Sawada H, Matsumoto K, Funaba M, Suzuki H, Funao H, Oshigiri T, Hirai T, Otsuki B, Kobayakawa K, Uotani K, Manabe H, Tanishima S, Hashimoto K, Iwai C, Yamabe D, Hiyama A, Seki S, Kato K, Miyazaki M, Watanabe K, Nakamae T, Kaito T, Nakashima H, Nagoshi N, Inoue G, Imagama S, Watanabe K, Kato S, Ohtori S, Furuya T, JASA Study Group",,
+40085050,Protein profiles predict treatment responses to the PI3K inhibitor umbralisib in patients with chronic lymphocytic leukemia.,2025 Mar 14,"Yin Y, Xu H, He L, Brown JR, Mato AR, Aittokallio T, Skånland SS",,
+40085041,MRI Application in Quantification of Epiphyseal Development in the Wrist and Bone Age Estimation of Han Male Adolescents in East China.,2024 Dec 25,"Zhou ZL, Zhang DF, Chen JM, Wang YH, Hao HX, Liu TA, He YH, Long DN, Liu RJ, Wan L",,
+40085003,Employing Automated Machine Learning (AutoML) Methods to Facilitate the In Silico ADMET Properties Prediction.,2025 Mar 14,"Han H, Shaker B, Lee JH, Choi S, Yoon S, Singh M, Basith S, Cui M, Ahn S, An J, Kang S, Yeom MS, Choi S",,
+40084948,Deep Learning Radiopathomics Models Based on Contrast-enhanced MRI and Pathologic Imaging for Predicting Vessels Encapsulating Tumor Clusters and Prognosis in Hepatocellular Carcinoma.,2025 Mar,"Yu Y, Cao L, Shen B, Du M, Gu W, Gu C, Fan Y, Shi C, Wu Q, Zhang T, Zhu M, Wang X, Hu C",,
+40084837,Lipid fingerprinting by MALDI Biotyper Sirius instrument fails to differentiate the three subspecies of the Mycobacterium abscessus complex.,2025 Mar 14,"Yoshida M, Fukano H, Yahara K, Nakano S, Komine T, Suzuki M, Fujinaga A, Doke K, Hoshino Y",,
+40084795,Artificial Intelligence in Vascular Diseases: From Clinical Practice to Medical Research and Education.,2025 Mar 14,"Lareyre F, Raffort J",,
+40084735,Obfuscation via pitch-shifting for balancing privacy and diagnostic utility in voice-based cognitive assessment.,2025 Feb,"Ahangaran M, Dawalatabad N, Karjadi C, Glass J, Au R, Kolachalama VB",,
+40084667,Machine Learning-Assisted Prediction and Control of Bandgap for Organic-Inorganic Metal Halide Perovskites.,2025 Mar 14,"Gou F, Ma Z, Yang Q, Du H, Li Y, Zhang Q, You W, Chen Y, Du Z, Yang J, He N, Luo J, Liu Z, Tian Z, Mao M, Liu K, Yu J, Zhang A, Min F, Sun K, Xuan N",,
