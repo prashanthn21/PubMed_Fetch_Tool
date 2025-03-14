@@ -1,4 +1,19 @@
 # PubMed Fetcher
+pipy/
+├───pubmed-fetcher
+│   │   cli.py
+│   │   fetch_pubmed.py
+│   │   useful-link.txt
+│   │   __init__.py
+│
+├───src
+│   └───pubmed_fetcher
+│       │   __init__.py
+│       └───
+│
+└───tests
+        __init__.py
+
 
 ## Description
 This project fetches research papers from PubMed based on a user-specified query. It identifies papers with at least one author affiliated with a pharmaceutical or biotech company and returns the results as a CSV file.
