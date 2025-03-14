@@ -43,8 +43,8 @@ def fetch_paper_details(paper_ids):
             "PubmedID": id,
             "Title": doc.get("title", ""),
             "Publication Date": doc.get("pubdate", ""),
-            "Non-academic Author(s)": ", ".join([author for author in doc.get("authors", []) if "university" not in author.lower()]),
-            "Company Affiliation(s)": ", ".join([affil for affil in doc.get("affiliations", []) if "university" not in affil.lower()]),
+            "Non-academic Author(s)": ", ".join([author for author in doc.get("authors", []) if isinstance(author, str) and "university" not in author.lower()]),
+            "Company Affiliation(s)": ", ".join([affil for affil in doc.get("affiliations", []) if isinstance(affil, str) and "university" not in affil.lower()]),
             "Corresponding Author Email": doc.get("corresponding_author_email", "")
         }
         papers.append(paper)
