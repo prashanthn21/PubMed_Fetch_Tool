@@ -15,5 +15,11 @@ def parse_arguments():
         required=True,
         help='Specify the output CSV file.'
     )
+    parser.add_argument(
+        '-q', '--query',
+        type=str,
+        required=True,
+        help='Specify the search query for PubMed.'
+    )
     
     return parser.parse_args()

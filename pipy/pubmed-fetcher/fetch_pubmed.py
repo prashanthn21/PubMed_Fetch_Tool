@@ -62,7 +62,7 @@ def save_to_csv(data, filename):
     df.to_csv(filename, index=False)
 
 def main():
-    query = "machine learning"
+    query = args.query
     max_results = 10
     
     # Fetch paper IDs from PubMed
