@@ -54,7 +54,7 @@ This project fetches research papers from PubMed based on a user-specified query
 To fetch research papers based on a query and save the results to a CSV file, use the following command:
 
 ```bash
-poetry run get-papers-list -q "machine learning" -f pubmed_papers.csv -c 10 -d
+poetry run get-papers-list -q "cancer treatment" -f cancertreatement.csv -c 10 -d
 ```
 
 ### Command-line Options
